@@ -1,0 +1,28 @@
+name: bb
+favicon: null
+layout_spectrum: 0.882742980029434
+typography_spectrum: 0.5105516058392823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.41342055751010776
+  lightness: 0.3169979352969676
+  saturation: 0.40199110587127507
+  rhythmicContrast: 0.42395183769986033
+purpose: []
