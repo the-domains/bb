@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[bb]]></title>
         <description><![CDATA[bb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 13:25:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Dec 2015 13:26:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Roller EP, by Pedro Martins]]></title>
+            <description><![CDATA[<article><h1>The Roller EP, by Pedro Martins</h1><p>The Roller EP by Pedro Martins, released 24 May 2015 1. The Roller 2. Snake Charmer 3. Wish 4. Snake Charmer (Chris C. & Rogg Remix) 5. Snake Charmer (Two's Tones Rework) Supported by Sasha, Animal Trainer, Benoit & Sergio, Daniel Mehlhart, Sezer Uysal, Stacey Pullen, PONY, Underground Tel Aviv and Deep House Amsterdam among others.</p></article>]]></description>
+            <link>https://blankhaus.bandcamp.com/album/the-roller-ep</link>
+            <guid isPermaLink="false">6a892cfc-91e7-4e4d-9603-f31683e86799</guid>
+            <pubDate>Fri, 25 Dec 2015 13:26:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blankhaus Music - Home]]></title>
-            <description><![CDATA[<article><h1>Blankhaus Music - Home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c125c785e5c4938aed5cd947a6b9eab5f14c6729.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Blankhaus Music - Home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c408533e08244ab422499f36d049fa8817881dcd.jpg"></article>]]></description>
             <link>http://blankhaus.net/index.html</link>
             <guid isPermaLink="false">5db16b35-3d07-47d8-8d55-71acb61bc58c</guid>
             <pubDate>Fri, 25 Dec 2015 13:25:51 GMT</pubDate>
