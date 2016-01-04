@@ -1,7 +1,7 @@
 name: bb
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.5105516058392823
+layout_spectrum: 1
+typography_spectrum: 0.68038
 title: Blankhaus Music
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#d5d5d5'
     - '#585856'
     - '#858585'
-  brandStrength: 0.5
-  lightness: 0.875
+  brandStrength: 0
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.42395183769986033
+  rhythmicContrast: 0
 purpose: []
