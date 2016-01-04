@@ -1,7 +1,7 @@
 name: bb
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.74542
+layout_spectrum: 0.25565
+typography_spectrum: 0.74
 title: Blankhaus Music
 cta:
   domain: null
